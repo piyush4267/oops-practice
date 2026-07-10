@@ -1,0 +1,2 @@
+Hello Infy
+This is an example for reading data in a file

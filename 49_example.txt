@@ -1,0 +1,4 @@
+Original Data
+2 69 55 49 6 
+Sorted Data
+2 6 49 55 69 

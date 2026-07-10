@@ -1,0 +1,4 @@
+Data Provided :
+1 2 4 5 8 2 
+Sorted Data :
+1 2 2 4 5 8 

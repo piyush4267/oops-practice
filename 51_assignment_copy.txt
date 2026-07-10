@@ -1,0 +1,9 @@
+1 2 4 5 8 2
+
+ASSIGNMENT ON FILE-HANDLING
+TASK :
+1> Input and store these data into a txt file :
+                "1 2 4 5 8 2"
+2> After creating file with this data , read the data first and print it.
+3> Then rewrite the data in the file (in sorted way ; data must be sorted).
+4> After soring of data , Read the data again and print it.
